@@ -3,6 +3,4 @@ branches:
 - master
 projects: 
   LuckyMiner: 
-  path: ""
-
 ...
