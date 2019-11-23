@@ -2,6 +2,7 @@
 branches:
 - master
 projects: 
-  LuckyMiner:
-    path:""
+  LuckyMiner: 
+  path: ""
+
 ...
